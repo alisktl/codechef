@@ -4,6 +4,7 @@
 1. [FRUITCHAAT](https://www.codechef.com/START25C/problems/FRUITCHAAT) - Chef and His Fruit Stand
 2. [DATATYPE](https://www.codechef.com/START25C/problems/DATATYPE) - Fit in Data Type
 3. [POLIN](https://www.codechef.com/START25C/problems/POLIN) - Points and Lines
+4. [EQUALMEX](https://www.codechef.com/START25C/problems/EQUALMEX) - Equal MEX
 
 ## [February Long 2022 - I](https://www.codechef.com/FEB221C)
 1. [CHEFBARBER](https://www.codechef.com/FEB221C/problems/CHEFBARBER) - Chef and the Hair Salon
