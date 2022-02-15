@@ -1,6 +1,6 @@
 # BITBLEND: Bitwise Blend
 
-The task is [here](https://www.codechef.com/FEB221C/problems/BITBLEND)
+The task is [here](https://www.codechef.com/problems/BITBLEND)
 
 ## Solution
 * A sequence is `tasty` if the elements have alternating parity.
