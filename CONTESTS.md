@@ -1,5 +1,12 @@
 # Contests
 
+## [February Long 2022 - II](https://www.codechef.com/FEB222)
+1. [NOFIX](https://www.codechef.com/problems/NOFIX) - Avoid Fixed Points
+2. [XORPAL](https://www.codechef.com/problems/XORPAL) - Xor Palindrome
+3. [BITSWAPS](https://www.codechef.com/problems/BITSWAPS) - Bitwise swaps
+4. [WGCD](https://www.codechef.com/problems/WGCD) - Sequence GCD
+5. [PLYARSM](https://www.codechef.com/problems/PLYARSM) - Area Sums in Convex Polygons
+
 ## [CodeChef Starters 25](https://www.codechef.com/START25)
 1. [FRUITCHAAT](https://www.codechef.com/problems/FRUITCHAAT) - Chef and His Fruit Stand
 2. [DATATYPE](https://www.codechef.com/problems/DATATYPE) - Fit in Data Type
