@@ -20,7 +20,7 @@
 4. [EQUALMEX](https://www.codechef.com/problems/EQUALMEX) - Equal MEX, [solution](./EQUALMEX)
 5. [TOWERTOP](https://www.codechef.com/problems/TOWERTOP) - Building Towers, [solution](./TOWERTOP)
 6. [DISTK](https://www.codechef.com/problems/DISTK) - K Distinct Array, [solution](./DISTK)
-7. [CNTAR](https://www.codechef.com/problems/CNTAR) - Count Arrays, `UNSOLVED`
+7. [CNTAR](https://www.codechef.com/problems/CNTAR) - Count Arrays, `SOLVED`
 8. [HIDPERM](https://www.codechef.com/problems/HIDPERM) - Hidden Permutation, `UNSOLVED`
 
 ## [February Long 2022 - I](https://www.codechef.com/FEB221)
@@ -28,6 +28,6 @@
 2. [EUREKA](https://www.codechef.com/problems/EUREKA) - N Queens Puzzle Solved !, [solution](./EUREKA)
 3. [BINBASBASIC](https://www.codechef.com/problems/BINBASBASIC) - Binary Base Basics, [solution](./BINBASBASIC)
 4. [BITBLEND](https://www.codechef.com/problems/BITBLEND) - Bitwise Blend, [solution](./BITBLEND)
-5. [REMADJ](https://www.codechef.com/problems/REMADJ) - Remove Adjacent, `UNSOLVED`
-6. [DIGMULK](https://www.codechef.com/problems/DIGMULK) - Digit Multiplication By K, `UNSOLVED`
+5. [REMADJ](https://www.codechef.com/problems/REMADJ) - Remove Adjacent, `SOLVED`
+6. [DIGMULK](https://www.codechef.com/problems/DIGMULK) - Digit Multiplication By K, `SOLVED`
 7. [RANDOMOR](https://www.codechef.com/problems/RANDOMOR) - Random OR, `UNSOLVED`
