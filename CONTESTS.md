@@ -1,5 +1,11 @@
 # Contests
 
+## [CodeChef Starters 26](https://www.codechef.com/START26)
+1. [SMOKE](https://www.codechef.com/problems/SMOKE) - Control the Pollution, [solution](./SMOKE)
+2. [LOSTSEQ](https://www.codechef.com/problems/LOSTSEQ) - Careless Chef
+3. [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game
+4. [DIVIDEARR](https://www.codechef.com/problems/DIVIDEARR) Array Division
+
 ## [February Long 2022 - II](https://www.codechef.com/FEB222)
 1. [NOFIX](https://www.codechef.com/problems/NOFIX) - Avoid Fixed Points, [solution](./NOFIX)
 2. [XORPAL](https://www.codechef.com/problems/XORPAL) - Xor Palindrome, [solution](./XORPAL)
