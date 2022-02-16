@@ -10,3 +10,6 @@
 
 ## Disjoint Set Union (1)
 * [BITSWAPS](https://www.codechef.com/problems/BITSWAPS) - Bitwise swaps, [solution](./BITSWAPS)
+
+## Greedy (1)
+* [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
