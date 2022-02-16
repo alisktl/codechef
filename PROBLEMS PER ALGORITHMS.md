@@ -7,3 +7,6 @@
 ## Dynamic Programming (2)
 * [CNTAR](https://www.codechef.com/problems/CNTAR) - Count Arrays, [solution](./CNTAR)
 * [DIGMULK](https://www.codechef.com/problems/DIGMULK) - Digit Multiplication By K, [solution](./DIGMULK)
+
+## Disjoint Set Union (1)
+* [BITSWAPS](https://www.codechef.com/problems/BITSWAPS) - Bitwise swaps, [solution](./BITSWAPS)
