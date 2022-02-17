@@ -3,7 +3,7 @@
 ## [CodeChef Starters 26](https://www.codechef.com/START26)
 1. [SMOKE](https://www.codechef.com/problems/SMOKE) - Control the Pollution, [solution](./SMOKE)
 2. [LOSTSEQ](https://www.codechef.com/problems/LOSTSEQ) - Careless Chef, [solution](./LOSTSEQ)
-3. [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game
+3. [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
 4. [DIVIDEARR](https://www.codechef.com/problems/DIVIDEARR) Array Division
 
 ## [February Long 2022 - II](https://www.codechef.com/FEB222)
