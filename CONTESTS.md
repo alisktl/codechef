@@ -2,12 +2,12 @@
 
 ## [February Cook-Off 2022](https://www.codechef.com/COOK138)
 1. [PREFPERM](https://www.codechef.com/problems/PREFPERM) - Prefix Permutation, [solution](./PREFPERM)
-1. [PERFPERM](https://www.codechef.com/problems/PERFPERM) - Perfect Permutation
-1. [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation
-1. [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market
-1. [UNCANNYXOR](https://www.codechef.com/problems/UNCANNYXOR) - Xor Becoming Uncanny
-1. [SLING](https://www.codechef.com/problems/SLING) - Slingshot
-1. [TANGLINGTREE](https://www.codechef.com/problems/TANGLINGTREE) - Tangling Tree
+2. [PERFPERM](https://www.codechef.com/problems/PERFPERM) - Perfect Permutation, [solution](./PERFPERM)
+3. [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation
+4. [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market
+5. [UNCANNYXOR](https://www.codechef.com/problems/UNCANNYXOR) - Xor Becoming Uncanny
+6. [SLING](https://www.codechef.com/problems/SLING) - Slingshot
+7. [TANGLINGTREE](https://www.codechef.com/problems/TANGLINGTREE) - Tangling Tree
 
 ## [CodeChef Starters 26](https://www.codechef.com/START26)
 1. [SMOKE](https://www.codechef.com/problems/SMOKE) - Control the Pollution, [solution](./SMOKE)
