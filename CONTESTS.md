@@ -3,7 +3,7 @@
 ## [February Cook-Off 2022](https://www.codechef.com/COOK138)
 1. [PREFPERM](https://www.codechef.com/problems/PREFPERM) - Prefix Permutation, [solution](./PREFPERM)
 2. [PERFPERM](https://www.codechef.com/problems/PERFPERM) - Perfect Permutation, [solution](./PERFPERM)
-3. [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation
+3. [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation, [solution](./PERMEX)
 4. [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market
 5. [UNCANNYXOR](https://www.codechef.com/problems/UNCANNYXOR) - Xor Becoming Uncanny
 6. [SLING](https://www.codechef.com/problems/SLING) - Slingshot

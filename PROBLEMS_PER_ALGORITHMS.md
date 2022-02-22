@@ -15,3 +15,6 @@
 
 ## Greedy (1)
 * [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
+
+## MEX (1)
+* [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation, [solution](./PERMEX)
