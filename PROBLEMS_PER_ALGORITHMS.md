@@ -13,6 +13,9 @@
 ## Disjoint Set Union (1)
 * [BITSWAPS](https://www.codechef.com/problems/BITSWAPS) - Bitwise swaps, [solution](./BITSWAPS)
 
+## Graphs (1)
+* [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market, [solution](./MANGOMKT)
+
 ## Greedy (1)
 * [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
 
