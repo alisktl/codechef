@@ -3,7 +3,7 @@
 ## [CodeChef Starters 27](https://www.codechef.com/START27)
 1. [PRODUCT](https://www.codechef.com/problems/PRODUCT) - The product mystery, [solution](./PRODUCT)
 2. [BINSTRING](https://www.codechef.com/problems/BINSTRING) - Distinct Binary Strings, [solution](./BINSTRING)
-3. [STR_REVERSE](https://www.codechef.com/problems/STR_REVERSE) - String Reverse
+3. [STR_REVERSE](https://www.codechef.com/problems/STR_REVERSE) - String Reverse, [solution](./STR_REVERSE)
 4. [NCOPRIMEN](https://www.codechef.com/problems/NCOPRIMEN) - Non Coprime Neighbours
 5. [ORSUM](https://www.codechef.com/problems/ORSUM) - Or Sum
 6. [ANDEQOR](https://www.codechef.com/problems/ANDEQOR) - And Equals Or
