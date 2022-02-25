@@ -1,3 +1,6 @@
+## Bitmasks (1)
+* `EASY` [BITBLEND](https://www.codechef.com/problems/BITBLEND) - Bitwise Blend, [solution](./BITBLEND)
+
 ## Disjoint Set Union (1)
 * `EASY` [BITSWAPS](https://www.codechef.com/problems/BITSWAPS) - Bitwise swaps, [solution](./BITSWAPS)
 
@@ -12,9 +15,8 @@
 ## Greedy (1)
 * `EASY` [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
 
-## Implementation (8)
+## Implementation (7)
 * `EASY` [BINBASBASIC](https://www.codechef.com/problems/BINBASBASIC) - Binary Base Basics, [solution](./BINBASBASIC)
-* `EASY` [BITBLEND](https://www.codechef.com/problems/BITBLEND) - Bitwise Blend, [solution](./BITBLEND)
 * `EASY` [DISTK](https://www.codechef.com/problems/DISTK) - K Distinct Array, [solution](./DISTK)
 * `EASY` [REMADJ](https://www.codechef.com/problems/REMADJ) - Remove Adjacent, [solution](./REMADJ)
 * `EASY` [PERFPERM](https://www.codechef.com/problems/PERFPERM) - Perfect Permutation, [solution](./PERFPERM)
