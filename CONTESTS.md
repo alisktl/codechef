@@ -37,7 +37,7 @@
 4. `EASY` [EQUALMEX](https://www.codechef.com/problems/EQUALMEX) - Equal MEX, [solution](./EQUALMEX)
 5. `EASY` [TOWERTOP](https://www.codechef.com/problems/TOWERTOP) - Building Towers, [solution](./TOWERTOP)
 6. `EASY` [DISTK](https://www.codechef.com/problems/DISTK) - K Distinct Array, [solution](./DISTK)
-7. `EASY` [CNTAR](https://www.codechef.com/problems/CNTAR) - Count Arrays, `IN QUEUE`
+7. `EASY` [CNTAR](https://www.codechef.com/problems/CNTAR) - Count Arrays, [solution](./CNTAR)
 8. `EASY` [HIDPERM](https://www.codechef.com/problems/HIDPERM) - Hidden Permutation, `UNSOLVED`
 
 ## [February Long 2022 - I](https://www.codechef.com/FEB221)
