@@ -1,5 +1,16 @@
 # Contests
 
+## [February Lunchtime 2022](https://www.codechef.com/LTIME105)
+1. `SIMPLE` [PLPROCESS](https://www.codechef.com/problems/PLPROCESS) - Parallel Processing, [solution](./PLPROCESS)
+2. `SIMPLE` [DISTCON](https://www.codechef.com/problems/DISTCON) - Four Equidistant Points on a Grid
+3. `EASY` [MAGNETSORT](https://www.codechef.com/problems/MAGNETSORT) - Magnet Sort
+4. `EASY` [MAGICMOD](https://www.codechef.com/problems/MAGICMOD) - Magical Modulo
+5. `EASY-MEDIUM` [VISEMALL](https://www.codechef.com/problems/VISEMALL) - Visit Them All
+6. `EASY-MEDIUM` [COOKPERM](https://www.codechef.com/problems/COOKPERM) - Chef Cooks Permutation
+7. `MEDIUM` [PERMXOR](https://www.codechef.com/problems/PERMXOR) - Permutation Xor
+8. `MEDIUM` [BRKRMV](https://www.codechef.com/problems/BRKRMV) - Bracket Removal
+9. `MEDIUM-HARD` [CHEFMALA](https://www.codechef.com/problems/CHEFMALA) - Chef and Mala
+
 ## [CodeChef Starters 27](https://www.codechef.com/START27)
 1. `EASY` [PRODUCT](https://www.codechef.com/problems/PRODUCT) - The product mystery, [solution](./PRODUCT)
 2. `EASY` [BINSTRING](https://www.codechef.com/problems/BINSTRING) - Distinct Binary Strings, [solution](./BINSTRING)
