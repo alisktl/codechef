@@ -2,7 +2,7 @@
 
 ## [February Lunchtime 2022](https://www.codechef.com/LTIME105)
 1. `SIMPLE` [PLPROCESS](https://www.codechef.com/problems/PLPROCESS) - Parallel Processing, [solution](./PLPROCESS)
-2. `SIMPLE` [DISTCON](https://www.codechef.com/problems/DISTCON) - Four Equidistant Points on a Grid
+2. `SIMPLE` [DISTCON](https://www.codechef.com/problems/DISTCON) - Four Equidistant Points on a Grid, [solution](./DISTCON)
 3. `EASY` [MAGNETSORT](https://www.codechef.com/problems/MAGNETSORT) - Magnet Sort
 4. `EASY` [MAGICMOD](https://www.codechef.com/problems/MAGICMOD) - Magical Modulo
 5. `EASY-MEDIUM` [VISEMALL](https://www.codechef.com/problems/VISEMALL) - Visit Them All
