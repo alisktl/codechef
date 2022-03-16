@@ -15,7 +15,7 @@
 ## Greedy (1)
 * `EASY` [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
 
-## Implementation (8)
+## Implementation (9)
 * `EASY` [BINBASBASIC](https://www.codechef.com/problems/BINBASBASIC) - Binary Base Basics, [solution](./BINBASBASIC)
 * `EASY` [DISTK](https://www.codechef.com/problems/DISTK) - K Distinct Array, [solution](./DISTK)
 * `EASY` [REMADJ](https://www.codechef.com/problems/REMADJ) - Remove Adjacent, [solution](./REMADJ)
@@ -24,6 +24,7 @@
 * `EASY` [STR_REVERSE](https://www.codechef.com/problems/STR_REVERSE) - String Reverse, [solution](./STR_REVERSE)
 * `EASY` [NCOPRIMEN](https://www.codechef.com/problems/NCOPRIMEN) - Non Coprime Neighbours, [solution](./NCOPRIMEN)
 * `EASY` [MAGNETSORT](https://www.codechef.com/problems/MAGNETSORT) - Magnet Sort, [solution](./MAGNETSORT)
+* `EASY` [MAGICMOD](https://www.codechef.com/problems/MAGICMOD) - Magical Modulo, [solution](./MAGICMOD)
 
 ## MEX (1)
 * `EASY` [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation, [solution](./PERMEX)
