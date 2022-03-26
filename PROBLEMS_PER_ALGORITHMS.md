@@ -9,8 +9,9 @@
 * `EASY` [DIGMULK](https://www.codechef.com/problems/DIGMULK) - Digit Multiplication By K, [solution](./DIGMULK)
 * `EASY` [DIVIDEARR](https://www.codechef.com/problems/DIVIDEARR) - Array Division, [solution](./DIVIDEARR)
 
-## Graphs (1)
+## Graphs (2)
 * `EASY` [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market, [solution](./MANGOMKT)
+* `EASY-MEDIUM` [VISEMALL](https://www.codechef.com/problems/VISEMALL) - Visit Them All, [solution](./VISEMALL)
 
 ## Greedy (1)
 * `EASY` [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
