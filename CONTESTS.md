@@ -1,5 +1,14 @@
 # Contests
 
+## [CodeChef Starters 28](https://www.codechef.com/START28)
+1. `CAKEWALK` [SUNDAY](https://www.codechef.com/problems/SUNDAY) - Count the Holidays, [solution](./SUNDAY)
+2. `SIMPLE` [PERMXORITY](https://www.codechef.com/problems/PERMXORITY) - Permutation Xority
+3. `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph
+4. `EASY-MEDIUM` [INTREECTIVE](https://www.codechef.com/problems/INTREECTIVE) - Interactive Tree
+5. `EASY-MEDIUM` [INTREECTIVE2](https://www.codechef.com/problems/INTREECTIVE2) - Interactive Tree 2
+6. `EASY-MEDIUM` [CNTFRAC](https://www.codechef.com/problems/CNTFRAC) - Counting Pairs
+7. `EASY-MEDIUM` [BRKDRMS](https://www.codechef.com/problems/BRKDRMS) - Broken Dreams
+
 ## [February Lunchtime 2022](https://www.codechef.com/LTIME105)
 1. `SIMPLE` [PLPROCESS](https://www.codechef.com/problems/PLPROCESS) - Parallel Processing, [solution](./PLPROCESS)
 2. `SIMPLE` [DISTCON](https://www.codechef.com/problems/DISTCON) - Four Equidistant Points on a Grid, [solution](./DISTCON)
