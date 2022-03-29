@@ -1,4 +1,5 @@
-## Bitmasks (1)
+## Bitwise (2)
+* `SIMPLE` [PERMXORITY](https://www.codechef.com/problems/PERMXORITY) - Permutation Xority, [solution](./PERMXORITY)
 * `EASY` [BITBLEND](https://www.codechef.com/problems/BITBLEND) - Bitwise Blend, [solution](./BITBLEND)
 
 ## Disjoint Set Union (1)
