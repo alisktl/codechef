@@ -14,9 +14,6 @@
 * `EASY` [MANGOMKT](https://www.codechef.com/problems/MANGOMKT) - Mango Market, [solution](./MANGOMKT)
 * `EASY-MEDIUM` [VISEMALL](https://www.codechef.com/problems/VISEMALL) - Visit Them All, [solution](./VISEMALL)
 
-## Shortest Paths (1)
-* `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph, [solution](./TRAVELLING)
-
 ## Greedy (1)
 * `EASY` [STNGAME](https://www.codechef.com/problems/STNGAME) - Stone Game, [solution](./STNGAME)
 
@@ -33,3 +30,6 @@
 
 ## MEX (1)
 * `EASY` [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation, [solution](./PERMEX)
+
+## Shortest Paths (1)
+* `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph, [solution](./TRAVELLING)
