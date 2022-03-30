@@ -3,7 +3,7 @@
 ## [CodeChef Starters 28](https://www.codechef.com/START28)
 1. `CAKEWALK` [SUNDAY](https://www.codechef.com/problems/SUNDAY) - Count the Holidays, [solution](./SUNDAY)
 2. `SIMPLE` [PERMXORITY](https://www.codechef.com/problems/PERMXORITY) - Permutation Xority, [solution](./PERMXORITY)
-3. `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph
+3. `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph, [solution](./TRAVELLING)
 4. `EASY-MEDIUM` [INTREECTIVE](https://www.codechef.com/problems/INTREECTIVE) - Interactive Tree
 5. `EASY-MEDIUM` [INTREECTIVE2](https://www.codechef.com/problems/INTREECTIVE2) - Interactive Tree 2
 6. `EASY-MEDIUM` [CNTFRAC](https://www.codechef.com/problems/CNTFRAC) - Counting Pairs
