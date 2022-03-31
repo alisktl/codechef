@@ -1,5 +1,17 @@
 # Contests
 
+## [March Cook-Off 2022](https://www.codechef.com/COOK139)
+1. `CAKEWALK` [JMARKET](https://www.codechef.com/problems/JMARKET) - Janmansh at Fruit Market
+2. `SIMPLE` [MEXSPLIT](https://www.codechef.com/problems/MEXSPLIT) - Equal Mex Splitting
+3. `SIMPLE` [ALTERNATEDIV](https://www.codechef.com/problems/ALTERNATEDIV) - Alternating Divisibility
+4. `EASY` [FIXWEIGHT](https://www.codechef.com/problems/FIXWEIGHT) - Fixed Weight
+5. `EASY-MEDIUM` [NANDXOR](https://www.codechef.com/problems/NANDXOR) - Dragonado And XOR
+6. `EASY-MEDIUM` [SECRETREE](https://www.codechef.com/problems/SECRETREE) - Secret Tree
+7. `MEDIUM` [FLIPOINTS](https://www.codechef.com/problems/FLIPOINTS) - Flippable Points
+8. `MEDIUM` [PO2](https://www.codechef.com/problems/PO2) - Powers of 2
+9. `MEDIUM` [OH1DCARE](https://www.codechef.com/problems/OH1DCARE) - Oh I Dont Care
+10. `MEDIUM-HARD` [PALQUE](https://www.codechef.com/problems/PALQUE) - Palindromes and Queries
+
 ## [CodeChef Starters 28](https://www.codechef.com/START28)
 1. `CAKEWALK` [SUNDAY](https://www.codechef.com/problems/SUNDAY) - Count the Holidays, [solution](./SUNDAY)
 2. `SIMPLE` [PERMXORITY](https://www.codechef.com/problems/PERMXORITY) - Permutation Xority, [solution](./PERMXORITY)
