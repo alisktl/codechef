@@ -31,5 +31,8 @@
 ## MEX (1)
 * `EASY` [PERMEX](https://www.codechef.com/problems/PERMEX) - PerMEXuation, [solution](./PERMEX)
 
+## Number Theory (1)
+* `EASY-MEDIUM` [CNTFRAC](https://www.codechef.com/problems/CNTFRAC) - Counting Pairs, [solution](./CNTFRAC)
+
 ## Shortest Paths (1)
 * `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph, [solution](./TRAVELLING)

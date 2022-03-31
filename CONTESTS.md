@@ -6,7 +6,7 @@
 3. `EASY` [TRAVELLING](https://www.codechef.com/problems/TRAVELLING) - Travelling in the Graph, [solution](./TRAVELLING)
 4. `EASY-MEDIUM` [INTREECTIVE](https://www.codechef.com/problems/INTREECTIVE) - Interactive Tree
 5. `EASY-MEDIUM` [INTREECTIVE2](https://www.codechef.com/problems/INTREECTIVE2) - Interactive Tree 2
-6. `EASY-MEDIUM` [CNTFRAC](https://www.codechef.com/problems/CNTFRAC) - Counting Pairs
+6. `EASY-MEDIUM` [CNTFRAC](https://www.codechef.com/problems/CNTFRAC) - Counting Pairs, [solution](./CNTFRAC)
 7. `EASY-MEDIUM` [BRKDRMS](https://www.codechef.com/problems/BRKDRMS) - Broken Dreams
 
 ## [February Lunchtime 2022](https://www.codechef.com/LTIME105)
