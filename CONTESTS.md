@@ -1,7 +1,7 @@
 # Contests
 
 ## [March Cook-Off 2022](https://www.codechef.com/COOK139)
-1. `CAKEWALK` [JMARKET](https://www.codechef.com/problems/JMARKET) - Janmansh at Fruit Market
+1. `CAKEWALK` [JMARKET](https://www.codechef.com/problems/JMARKET) - Janmansh at Fruit Market, [solution](./JMARKET)
 2. `SIMPLE` [MEXSPLIT](https://www.codechef.com/problems/MEXSPLIT) - Equal Mex Splitting
 3. `SIMPLE` [ALTERNATEDIV](https://www.codechef.com/problems/ALTERNATEDIV) - Alternating Divisibility
 4. `EASY` [FIXWEIGHT](https://www.codechef.com/problems/FIXWEIGHT) - Fixed Weight
